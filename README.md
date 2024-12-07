@@ -29,9 +29,6 @@
 </div>
 
 ---
-<div>
-    <img height="180cm" align="right" alt="mafumafu" src="https://media.tenor.com/oWgAV0WS7TsAAAAi/tongue-out-mafumafu.gif">
-</div>
 
 ## Redes Sociais
 
