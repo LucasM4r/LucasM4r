@@ -1,9 +1,7 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasM4r" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasM4r&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div style="display:flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasM4r&theme=default&show_icons=true&hide_border=true&count_private=true" alt="LucasM4r's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasM4r&theme=default&show_icons=true&hide_border=true&layout=compact" alt="LucasM4r's GitHub Stats" />
+</div>
 ---
 
 ## Tecnologias que uso
