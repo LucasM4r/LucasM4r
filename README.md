@@ -1,6 +1,5 @@
 <div style="display:flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasM4r&theme=default&show_icons=true&hide_border=true&count_private=true" alt="LucasM4r's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasM4r&theme=default&show_icons=true&hide_border=true&layout=compact" alt="LucasM4r's GitHub Stats" />
+  <img width="2756" height="1536" alt="Image" src="https://github.com/user-attachments/assets/d6b6338a-e667-469a-84fb-cdd20d71c2b3" />
 </div>
 ---
 
