@@ -1,5 +1,5 @@
 <div style="display:flex">
-  <img width="2754" height="1347" alt="Image" src="https://github.com/user-attachments/assets/283941b1-9d2b-453d-8549-7bee879cb70e" />
+  <img width="2527" height="1513" alt="Image" src="https://github.com/user-attachments/assets/800f12f9-af19-4a71-8bc0-075a48e915f7" />
 </div>
 
 ## Tecnologias que uso
