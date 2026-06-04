@@ -37,10 +37,10 @@
 
 ## 🐍 GitHub Status
 <div align="center">
-  <img alt="Lucas's GitHub stats" height="165" width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=LucasM4r&show_icons=true&bg_color=00000000" />
-  &nbsp;&nbsp;
-  <img alt="Lucas's Top Langs" height="165" width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LucasM4r&layout=compact&bg_color=00000000&theme=transparent" />
+  <img alt="Lucas's GitHub stats" width="50%" src="https://github-readme-stats-fast.vercel.app/api?username=LucasM4r&show_icons=true&bg_color=00000000" />
+  <img alt="Lucas's Top Langs" width="38%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LucasM4r&layout=compact&bg_color=00000000&theme=transparent" />
 </div>
+
 <div align="center">
 
   <picture>
