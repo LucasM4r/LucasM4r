@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <a href="Hi there, I'm Lucas!"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=1000&center=true&vCenter=true&width=435&height=48&lines=Hi+there%2C+I'm+Lucas!+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <img src="./assets/typing.svg" alt="Typing SVG" />
 </div>
 
 <div align="justify">
