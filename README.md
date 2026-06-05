@@ -26,7 +26,7 @@
 
 ## 🛠 Technologies & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,c,go,nodejs,fastapi,html,css,react,sklearn,pytorch,opencv,neovim,ubuntu,vscode&perline=8" alt="Technologies and Tools" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,c,go,nodejs,fastapi,html,css,react,sklearn,pytorch,opencv,docker,ubuntu,vscode&perline=8" alt="Technologies and Tools" />
 </div>
 
 ## 🌐 Social Media
