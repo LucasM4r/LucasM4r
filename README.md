@@ -37,8 +37,8 @@
 <br/>
 
 ## 📚 Academic
-* **3rd Place** at RoboCup Small Size Soccer Entry Level (2025 Brazilian Robotics Competition - Robocup) - 2025
-* **Treasurer** at the IEEE Robotics and Automation Society Chapter - 2025:2026
+* **3rd Place** at RoboCup Small Size Soccer Entry Level (2025 Brazilian Robotics Competition - Robocup) | 2025
+* **Treasurer** at the IEEE Robotics and Automation Society Chapter | 2025-2026
 * **Member** of the IEEE Computer Society and the IEEE Robotics and Automation Society
 * **Member** TauraBots robotics group
 
