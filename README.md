@@ -39,15 +39,13 @@
 ## 📚 Academic
 * **3rd Place** at RoboCup Small Size Soccer Entry Level (2025 Brazilian Robotics Competition - Robocup) | 2025
 * **Treasurer** at the IEEE Robotics and Automation Society Chapter | 2025-2026
-* **Member** of the IEEE Computer Society and the IEEE Robotics and Automation Society
-* **Member** TauraBots robotics group
 
 ## 🔬 Research
-* Mapeamento da Fronteira de Pareto em IDS: Equilibrando Eficácia e Complexidade Estrutural via PSO | 2026 | Conference paper | SBSEG2026 | DOI:
-* Super-BoW Algorithm for Place Recognition in Indoor Environments | 2026 | Conference paper | CROS2026 | DOI: 
-* Comparison of Tuning Techniques for PID Controllers in Mobile Robots Using the Empirical Method and the Firefly Metaheuristic Algorithm | 2025 | Conference paper | SBR2025 | DOI: 10.1109/SBR/WRE66973.2025.11249638
-* Deep Reinforcement Learning Using the Soft Actor-Critic Method for Goalkeeper Control in a Very Small Size Soccer Environment | 2025 | Conference paper | CROS2025 | DOI: 10.1109/cros66186.2025.11066145
-* Análise de Métodos de Ensemble Learning para Detecção de Spam | 2025 | Conference paper | ERAMIA- RS | DOI: 10.5753/eramiars.2025.16235
+* Mapeamento da Fronteira de Pareto em IDS: Equilibrando Eficácia e Complexidade Estrutural via PSO | SBSEG2026
+* Super-BoW Algorithm for Place Recognition in Indoor Environments | CROS2026
+* Comparison of Tuning Techniques for PID Controllers in Mobile Robots Using the Empirical Method and the Firefly Metaheuristic Algorithm | SBR2025
+* Deep Reinforcement Learning Using the Soft Actor-Critic Method for Goalkeeper Control in a Very Small Size Soccer Environment | CROS2025
+* Análise de Métodos de Ensemble Learning para Detecção de Spam | ERAMIA- RS2025
   
 ## 🐍 GitHub Status
 <div align="center">
