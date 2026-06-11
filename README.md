@@ -49,8 +49,8 @@
   
 ## 🐍 GitHub Status
 <div align="center">
-  <img alt="Lucas's GitHub stats" width="50%" src="https://github-readme-stats-two-neon-72.vercel.app/api?username=LucasM4r&show_icons=true&bg_color=00000000&cache_seconds=86400&v=11" />
-  <img alt="Lucas's Top Langs" width="38%" src="https://github-readme-stats-two-neon-72.vercel.app/api/top-langs/?username=LucasM4r&layout=compact&bg_color=00000000&theme=transparent&cache_seconds=86400&v=11" />
+  <img alt="Lucas's GitHub stats" width="50%" src="https://github-readme-stats-two-neon-72.vercel.app/api?username=LucasM4r&show_icons=true&bg_color=00000000&cache_seconds=86400&v=20260611" />
+  <img alt="Lucas's Top Langs" width="38%" src="https://github-readme-stats-two-neon-72.vercel.app/api/top-langs/?username=LucasM4r&layout=compact&bg_color=00000000&theme=transparent&cache_seconds=86400&v=20260611" />
 </div>
 <div align="center">
 
