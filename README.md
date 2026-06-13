@@ -26,7 +26,7 @@
 
 ## 🛠 Technologies & Tools
 <div align="center">
-  <img src="https://skill-icons.lucas-marchesan.workers.dev/icons?i=py,js,ts,c,go,fastapi,html,css,react,sklearn,pytorch,opencv,postgres,docker,ubuntu,vscode&perline=8" alt="Technologies and Tools" />
+  <img src="https://skill-icons.lucas-marchesan.workers.dev/icons?i=py,js,ts,c,go,fastapi,html,css,react,pytorch,opencv,postgres,grafana,docker,ubuntu,vscode&perline=8" alt="Technologies and Tools" />
 </div>
 
 ## 🌐 Social Media
