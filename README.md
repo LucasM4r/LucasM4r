@@ -35,8 +35,6 @@
   <a href="https://www.linkedin.com/in/lucasmarchesan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
-<br/>
-
 ### 🧮 Coding Platforms
 <div style="display: flex; gap: 5px;">
   <a href="https://leetcode.com/u/lucasm4/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
