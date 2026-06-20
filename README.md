@@ -39,8 +39,6 @@
 <div style="display: flex; gap: 5px;">
   <a href="https://leetcode.com/u/lucasm4/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
   </div>
-<br/>
-<br/>
 
 ## 📚 Academic
 * **3rd Place** at RoboCup Small Size Soccer Entry Level (2025 Brazilian Robotics Competition - Robocup) | 2025
