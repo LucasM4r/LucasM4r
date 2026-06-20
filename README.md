@@ -30,10 +30,18 @@
 </div>
 
 ## 🌐 Social Media
-<div style="display: flex; gap: 0;">
+<div style="display: flex; gap: 5px;">
   <a href="https://www.instagram.com/lucasmarchesan_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.linkedin.com/in/lucasmarchesan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
+
+<br/>
+
+### 🧮 Coding Platforms
+<div style="display: flex; gap: 5px;">
+  <a href="https://leetcode.com/u/lucasm4/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
+  </div>
+<br/>
 <br/>
 
 ## 📚 Academic
@@ -49,8 +57,8 @@
   
 ## 🐍 GitHub Status
 <div align="center">
-  <img alt="Lucas's GitHub stats" width="50%" src="https://github-readme-stats-two-neon-72.vercel.app/api?username=LucasM4r&show_icons=true&bg_color=00000000&cache_seconds=86400&v=20260616" />
-  <img alt="Lucas's Top Langs" width="38%" src="https://github-readme-stats-two-neon-72.vercel.app/api/top-langs/?username=LucasM4r&layout=compact&bg_color=00000000&theme=transparent&cache_seconds=86400&v=20260616" />
+  <img alt="Lucas's GitHub stats" width="50%" src="https://github-readme-stats-two-neon-72.vercel.app/api?username=LucasM4r&show_icons=true&bg_color=00000000&cache_seconds=86400&v=20260619" />
+  <img alt="Lucas's Top Langs" width="38%" src="https://github-readme-stats-two-neon-72.vercel.app/api/top-langs/?username=LucasM4r&layout=compact&bg_color=00000000&theme=transparent&cache_seconds=86400&v=20260619" />
 </div>
 <div align="center">
 
