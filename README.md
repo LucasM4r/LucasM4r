@@ -44,13 +44,6 @@
 * **3rd Place** at RoboCup Small Size Soccer Entry Level (2025 Brazilian Robotics Competition - Robocup) | 2025
 * **Treasurer** at the IEEE Robotics and Automation Society Chapter | 2025-2026
 
-## 🔬 Research
-* Mapeamento da Fronteira de Pareto em IDS: Equilibrando Eficácia e Complexidade Estrutural via PSO | SBSEG2026
-* Super-BoW Algorithm for Place Recognition in Indoor Environments | CROS2026
-* Comparison of Tuning Techniques for PID Controllers in Mobile Robots Using the Empirical Method and the Firefly Metaheuristic Algorithm | SBR2025
-* Deep Reinforcement Learning Using the Soft Actor-Critic Method for Goalkeeper Control in a Very Small Size Soccer Environment | CROS2025
-* Análise de Métodos de Ensemble Learning para Detecção de Spam | ERAMIA- RS2025
-
 ## 🌎 Open Source Contributions
 <div>
   <a href="https://github.com/irbis-sh/zen-desktop"><img src="https://img.shields.io/badge/irbis--sh-zen--desktop-181717?style=flat-square&logo=github" alt="Zen Desktop"></a>
