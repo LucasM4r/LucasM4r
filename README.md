@@ -29,6 +29,13 @@
   <img src="https://skill-icons.lucas-marchesan.workers.dev/icons?i=py,js,ts,c,go,fastapi,html,css,react,pytorch,postgres,prometheus,grafana,docker,githubactions,ubuntu&perline=8" alt="Technologies and Tools" />
 </div>
 
+## 🏆 Certifications
+<a href="https://learn.microsoft.com/api/credentials/share/pt-br/LucasMarchesandaSilva-2677/B170E221E9EB08B?sharingId=AB1DFB306F841AB8">
+  <img src="./assets/github-foundations-badge.png"
+       alt="GitHub Foundations Certification"
+       width="150">
+</a>
+
 ## 🌐 Social Media
 <div style="display: flex; gap: 5px;">
   <a href="https://www.instagram.com/lucasmarchesan_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
