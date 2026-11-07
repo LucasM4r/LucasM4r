@@ -54,7 +54,6 @@
 ## 🌎 Open Source Contributions
 <div>
   <a href="https://github.com/irbis-sh/zen-desktop"><img src="https://img.shields.io/badge/irbis--sh-zen--desktop-181717?style=flat-square&logo=github" alt="Zen Desktop"></a>
-  <a href="https://github.com/Blueprint-uServices/blueprint"><img src="https://img.shields.io/badge/Blueprint--uServices-blueprint-181717?style=flat-square&logo=github" alt="Blueprint"></a>
 </div>
  
 ## 🐍 GitHub Status
